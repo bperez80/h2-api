@@ -23,7 +23,6 @@ public class Usuario {
     private String name;
     private String email;
     private String password;
-    private String phone;
     private LocalDate created;
     private LocalDate modified;
 
